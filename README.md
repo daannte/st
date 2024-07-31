@@ -5,3 +5,4 @@
 - Live reloading with Xresources
 - scrollback
 - anygeometry
+- anysize
